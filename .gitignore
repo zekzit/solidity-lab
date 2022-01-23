@@ -1,0 +1,6 @@
+artifacts/
+node_modules/
+coverage/
+cache/
+.temp
+coverage.json
